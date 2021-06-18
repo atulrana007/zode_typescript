@@ -1,0 +1,16 @@
+node_modulestodo.personal.md
+node_modules
+dist
+*.log
+coverage
+.eslintcache
+.vscode
+.DS_Store
+_site
+pages
+docs
+temp
+/.env
+public
+wiki/api
+wiki/_Sidebar.md
